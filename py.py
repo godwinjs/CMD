@@ -14,3 +14,16 @@ class Puppy():
 marble = Puppy('Marble', 'teddy bear')
 
 marble.play()
+
+def add(a, b):
+    return a + b
+
+val = add(1, 2)
+
+print(val)
+
+def favourite_city(city):
+    print(f"one of my favourite cities is {city}")
+
+favourite_city('New York')
+favourite_city('Paris')
