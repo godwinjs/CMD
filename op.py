@@ -51,3 +51,6 @@ attendee2.addTickets()
 
 # Intro to algorithm
 # An algorithm is a set of instructions that are used to solve a specific problem or perform a specific task.
+
+# model side of LLMs is already advanced, application side needs work
+# radix ofkit
